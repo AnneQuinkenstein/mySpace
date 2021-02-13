@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".gamelayer#start"
+                 "value":".\/gamelayer#start"
                 }],
          "type":"tilelayer",
          "visible":true,
