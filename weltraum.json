@@ -152,7 +152,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"media\/Micachu.mp3"
+                 "value":"media\/Benton.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
