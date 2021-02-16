@@ -152,7 +152,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"media\/16_Ghosts_II_320kb.mp3"
+                 "value":"media\/Micachu.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
