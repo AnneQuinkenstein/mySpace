@@ -240,12 +240,12 @@
          "height":21,
          "id":35,
          "name":"exit-phil",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"phil.org"
+                 "value":"phil.json"
                 }],
          "type":"tilelayer",
          "visible":true,
