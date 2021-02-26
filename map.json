@@ -2955,7 +2955,7 @@
          "tileheight":32,
          "tiles":[
                 {
-                 "id":41,
+                 "id":29,
                  "properties":[
                         {
                          "name":"collides",
@@ -2964,7 +2964,34 @@
                         }]
                 }, 
                 {
-                 "id":42,
+                 "id":30,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":74,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":84,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":85,
                  "properties":[
                         {
                          "name":"collides",
