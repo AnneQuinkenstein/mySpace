@@ -170,7 +170,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/vH1poPSIvOk\""
+                 "value":"https:\/\/www.youtube.com\/embed\/vH1poPSIvOk"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -206,7 +206,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"media\/media\/TechTalk.mp3"
+                 "value":"media\/TechTalk.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
