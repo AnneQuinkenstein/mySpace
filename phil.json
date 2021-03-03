@@ -130,9 +130,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"media\/Benton.mp3"
+                 "value":"https:\/\/www.youtube.com\/embed\/1zWlnzFXcKY"
                 }],
          "type":"tilelayer",
          "visible":true,
