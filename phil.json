@@ -3407,6 +3407,19 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":10,
+         "firstgid":9586,
+         "image":"tiles\/SushiShop.png",
+         "imageheight":480,
+         "imagewidth":320,
+         "margin":0,
+         "name":"SushiShop",
+         "spacing":0,
+         "tilecount":150,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
