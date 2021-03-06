@@ -3409,15 +3409,15 @@
          "tilewidth":32
         }, 
         {
-         "columns":10,
+         "columns":13,
          "firstgid":9586,
-         "image":"tiles\/SushiShop.png",
-         "imageheight":480,
-         "imagewidth":320,
+         "image":"tiles\/ZenTest_Map_V3.png",
+         "imageheight":512,
+         "imagewidth":416,
          "margin":0,
-         "name":"SushiShop",
+         "name":"ZenTest_Map_V3",
          "spacing":0,
-         "tilecount":150,
+         "tilecount":208,
          "tileheight":32,
          "tilewidth":32
         }],
